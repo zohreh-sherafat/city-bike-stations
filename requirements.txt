@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+geopandas
+geopy
+plotly
+dash
+dash-html-components
